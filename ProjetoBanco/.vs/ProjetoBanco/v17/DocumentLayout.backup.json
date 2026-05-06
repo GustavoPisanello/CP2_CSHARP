@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\CP2_CSHARP\\ProjetoBanco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjetoBanco.API\\ProjetoBanco.API.csproj|c:\\users\\labsfiap\\desktop\\cp2_csharp\\projetobanco\\projetobanco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|ProjetoBanco.API\\ProjetoBanco.API.csproj|solutionrelative:projetobanco.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\CP2_CSHARP\\ProjetoBanco\\ProjetoBanco.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoBanco.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\CP2_CSHARP\\ProjetoBanco\\ProjetoBanco.API\\appsettings.json",
+              "RelativeToolTip": "ProjetoBanco.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T01:32:44.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
