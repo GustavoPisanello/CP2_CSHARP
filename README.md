@@ -266,7 +266,3 @@ dotnet ef database update
 5. `GET /api/contratacoes/{id}` — consulte o resultado
 
 ---
-
-## 6. Print do Swagger
-
-> Inserir print do Swagger com pelo menos uma contratação aprovada após rodar a aplicação.
